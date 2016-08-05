@@ -1,0 +1,23 @@
+commit 3e6a7c5608fa1325977bbb093c8dfe33438d7f8a
+Author: raul.royero <rsroyero@gmail.com>
+Date:   Fri Aug 5 11:20:21 2016 -0500
+
+    Cambio CSS
+
+commit 586f55d8598f7c18eaf7b199c0bf286ffdb0d15c
+Author: raul.royero <rsroyero@gmail.com>
+Date:   Fri Aug 5 11:13:57 2016 -0500
+
+    Cambio Index
+
+commit abc10c7dde246fecef1de30c0839ee88066a87e7
+Author: raul.royero <rsroyero@gmail.com>
+Date:   Fri Aug 5 11:04:52 2016 -0500
+
+    Primer Cambio
+
+commit 8529e54b09f888b7143263b2e2e6f36c0a0ccbd0
+Author: raul.royero <rsroyero@gmail.com>
+Date:   Fri Aug 5 10:59:55 2016 -0500
+
+    First Commit
